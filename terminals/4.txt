@@ -1,0 +1,22 @@
+---
+pid: 23528
+cwd: "C:\Users\Bulkl\OneDrive\Desktop\BitBurner Scripts"
+command: "Get-NetTCPConnection -LocalPort 12525 -ErrorAction SilentlyContinue | Format-Table OwningProcess, State; node \"C:\\Users\\Bulkl\\OneDrive\\Desktop\\BitBurner Scripts\\RemoteAPI\\push-automation.js\" 2>&1 | Select-Object -First 15"
+started_at: 2026-06-16T00:12:29.462Z
+running_for_ms: 34370003 
+---
+Automation deploy server
+  Source: C:\Users\Bulkl\OneDrive\Desktop\BitBurner Scripts\Automation
+  Files:  21
+  Port:   12525
+
+In BitBurner: Options → Remote API → 127.0.0.1 : 12525 → Connect
+(Leave this window open until files are pushed. Ctrl+C to cancel.)
+
+
+Waiting for BitBurner to connect.   
+Waiting for BitBurner to connect..   
+Waiting for BitBurner to connect...   
+Waiting for BitBurner to connect   
+Waiting for BitBurner to connect.   
+Waiting for BitBurner to connect..   

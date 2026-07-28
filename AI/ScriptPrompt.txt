@@ -1,0 +1,20 @@
+This is what I need. I need a script or set of scripts for BitBurner 3.0.0. The goal of the script(s) is to completely automate the entire game in a manner that I can run a single script and watch it go.
+
+
+Examples of things that should be automated(these are examples only and additional things will likely need to be automated):
+
+connecting to servers
+managing all servers continuously
+installing backdoors
+opening ports and nuking
+weakening, growing and hacking servers
+buying and upgrading hacknet-nodes
+buying and upgrading cloud servers
+upgrading the home servers RAM and cores
+accepting faction invites
+grinding rep and buying augments
+installing augments
+buying programs from the darkweb
+
+
+All these and more, need to be done as smartly and efficiently as possible. It should focus on at least 15 targets(assuming the are 15 available). It should consider all the necessary variables to predict which targets will produce the most value.

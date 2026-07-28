@@ -1,0 +1,12 @@
+# Local dependencies, credentials, and editor state.
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

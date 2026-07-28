@@ -1,0 +1,14 @@
+---
+pid: 25040
+cwd: "C:\Users\Bulkl\OneDrive\Desktop\BitBurner Scripts"
+command: "node \"C:\\Users\\Bulkl\\OneDrive\\Desktop\\BitBurner Scripts\\RemoteAPI\\push-automation.js\""
+started_at: 2026-06-16T00:10:22.079Z
+running_for_ms: 34500008 
+---
+Automation deploy server
+  Source: C:\Users\Bulkl\OneDrive\Desktop\BitBurner Scripts\Automation
+  Files:  21
+  Port:   12525
+
+In BitBurner: Options → Remote API → 127.0.0.1 : 12525 → Connect
+Then run:  run Automation/brain.js
